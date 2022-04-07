@@ -1,0 +1,5 @@
+2022-04-06 23:37:44,236 :DEBUG :root :Debug log
+2022-04-06 23:37:44,236 :INFO :root :Information log 
+2022-04-06 23:37:44,236 :WARNING :root :Warning log
+2022-04-06 23:37:44,236 :ERROR :root :Error log
+2022-04-06 23:37:44,236 :CRITICAL :root :Critical log

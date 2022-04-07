@@ -1,0 +1,103 @@
+2022-04-06 23:57:29,518: INFO: *************** Test_001_Login *****************
+2022-04-06 23:57:29,519: INFO: ****Started Home page title test ****
+2022-04-06 23:57:29,519: INFO: *******opening url**********
+2022-04-06 23:57:32,087: INFO: *******getting title of title page**********
+2022-04-06 23:57:32,096: INFO: *******verifying title page pass**********
+2022-04-06 23:57:37,576: INFO: *******test_login**********
+2022-04-06 23:57:37,576: INFO: *******starting_url**********
+2022-04-06 23:58:12,994:    INFO:    *************** Test_001_Login *****************
+2022-04-06 23:58:12,995:    INFO:    ****Started Home page title test ****
+2022-04-06 23:58:12,995:    INFO:    *******opening url**********
+2022-04-06 23:58:14,898:    INFO:    *******getting title of title page**********
+2022-04-06 23:58:14,906:    INFO:    *******verifying title page pass**********
+2022-04-06 23:58:20,621:    INFO:    *******test_login**********
+2022-04-06 23:58:20,622:    INFO:    *******starting_url**********
+2022-04-06 23:58:22,680:    INFO:    *******inserting username**********
+2022-04-06 23:58:22,843:    INFO:    *******inserting password**********
+2022-04-06 23:58:22,996:    INFO:    *******clicking on login button**********
+2022-04-06 23:58:28,834:    INFO:    *******getting title of title page**********
+2022-04-06 23:58:28,940:    INFO:    *******test_login pass**********
+2022-04-07 01:43:38,406:    INFO:    *************** Test_001_Login *****************
+2022-04-07 01:43:38,407:    INFO:    ****Started Home page title test ****
+2022-04-07 01:43:38,407:    INFO:    *******opening url**********
+2022-04-07 01:43:40,646:    INFO:    *******getting title of title page**********
+2022-04-07 01:43:40,649:    INFO:    *******verifying title page pass**********
+2022-04-07 01:43:45,984:    INFO:    *******test_login**********
+2022-04-07 01:43:45,985:    INFO:    *******starting_url**********
+2022-04-07 01:44:07,100:    INFO:    *******inserting username**********
+2022-04-07 01:44:07,232:    INFO:    *******inserting password**********
+2022-04-07 01:44:07,301:    INFO:    *******clicking on login button**********
+2022-04-07 01:44:13,670:    INFO:    *******getting title of title page**********
+2022-04-07 01:44:13,673:    INFO:    *******test_login pass**********
+2022-04-07 19:29:01,913:    INFO:    *************** Test_001_Login *****************
+2022-04-07 19:29:01,914:    INFO:    ****Started Home page title test ****
+2022-04-07 19:29:01,914:    INFO:    *******opening url**********
+2022-04-07 19:29:05,086:    INFO:    *******getting title of title page**********
+2022-04-07 19:29:05,091:    INFO:    *******verifying title page pass**********
+2022-04-07 19:29:10,297:    INFO:    *******test_login**********
+2022-04-07 19:29:10,297:    INFO:    *******starting_url**********
+2022-04-07 19:29:13,590:    INFO:    *******inserting username**********
+2022-04-07 19:29:13,686:    INFO:    *******inserting password**********
+2022-04-07 19:29:13,759:    INFO:    *******clicking on login button**********
+2022-04-07 19:29:18,966:    INFO:    *******getting title of title page**********
+2022-04-07 19:29:18,977:    INFO:    *******test_login pass**********
+2022-04-07 20:02:10,078:    INFO:    *************** Test_001_Login *****************
+2022-04-07 20:02:10,079:    INFO:    ****Started Home page title test ****
+2022-04-07 20:02:10,079:    INFO:    *******opening url**********
+2022-04-07 20:02:13,279:    INFO:    *******getting title of title page**********
+2022-04-07 20:02:13,281:    INFO:    *******verifying title page pass**********
+2022-04-07 20:02:14,498:    INFO:    *******test_login**********
+2022-04-07 20:02:14,498:    INFO:    *******starting_url**********
+2022-04-07 20:02:17,533:    INFO:    *******inserting username**********
+2022-04-07 20:02:17,650:    INFO:    *******inserting password**********
+2022-04-07 20:02:17,725:    INFO:    *******clicking on login button**********
+2022-04-07 20:02:21,855:    INFO:    *******getting title of title page**********
+2022-04-07 20:02:21,859:    INFO:    *******test_login pass**********
+2022-04-07 20:15:47,267:    INFO:    *************** Test_001_Login *****************
+2022-04-07 20:15:47,267:    INFO:    ****Started Home page title test ****
+2022-04-07 20:15:47,267:    INFO:    *******opening url**********
+2022-04-07 20:15:49,973:    INFO:    *******getting title of title page**********
+2022-04-07 20:15:49,978:    INFO:    *******verifying title page pass**********
+2022-04-07 20:15:53,297:    INFO:    *******test_login**********
+2022-04-07 20:15:53,298:    INFO:    *******starting_url**********
+2022-04-07 20:15:55,265:    INFO:    *******inserting username**********
+2022-04-07 20:15:55,389:    INFO:    *******inserting password**********
+2022-04-07 20:15:55,470:    INFO:    *******clicking on login button**********
+2022-04-07 20:16:00,068:    INFO:    *******getting title of title page**********
+2022-04-07 20:16:00,090:    INFO:    *******test_login pass**********
+2022-04-07 20:17:17,397:    INFO:    *************** Test_001_Login *****************
+2022-04-07 20:17:17,397:    INFO:    ****Started Home page title test ****
+2022-04-07 20:17:17,397:    INFO:    *******opening url**********
+2022-04-07 20:17:56,109:    INFO:    *******getting title of title page**********
+2022-04-07 20:17:56,113:    INFO:    *******verifying title page pass**********
+2022-04-07 20:18:01,403:    INFO:    *******test_login**********
+2022-04-07 20:18:01,403:    INFO:    *******starting_url**********
+2022-04-07 20:18:04,507:    INFO:    *******inserting username**********
+2022-04-07 20:18:04,597:    INFO:    *******inserting password**********
+2022-04-07 20:18:04,677:    INFO:    *******clicking on login button**********
+2022-04-07 20:18:19,747:    INFO:    *******getting title of title page**********
+2022-04-07 20:18:19,751:    INFO:    *******test_login pass**********
+2022-04-07 20:18:41,461:    INFO:    *************** Test_001_Login *****************
+2022-04-07 20:18:41,462:    INFO:    ****Started Home page title test ****
+2022-04-07 20:18:41,463:    INFO:    *******opening url**********
+2022-04-07 20:18:41,589:    INFO:    *******test_login**********
+2022-04-07 20:18:41,589:    INFO:    *******starting_url**********
+2022-04-07 20:18:44,004:    INFO:    *******getting title of title page**********
+2022-04-07 20:18:44,011:    INFO:    *******verifying title page pass**********
+2022-04-07 20:18:45,590:    INFO:    *******inserting username**********
+2022-04-07 20:18:45,704:    INFO:    *******inserting password**********
+2022-04-07 20:18:45,779:    INFO:    *******clicking on login button**********
+2022-04-07 20:18:52,198:    INFO:    *******getting title of title page**********
+2022-04-07 20:18:52,206:    INFO:    *******test_login pass**********
+2022-04-07 20:40:14,417:    INFO:    *************** Test_001_Login *****************
+2022-04-07 20:40:14,418:    INFO:    ****Started Home page title test ****
+2022-04-07 20:40:14,418:    INFO:    *******opening url**********
+2022-04-07 20:40:14,652:    INFO:    *******test_login**********
+2022-04-07 20:40:14,653:    INFO:    *******starting_url**********
+2022-04-07 20:40:19,542:    INFO:    *******inserting username**********
+2022-04-07 20:40:19,651:    INFO:    *******inserting password**********
+2022-04-07 20:40:19,676:    INFO:    *******getting title of title page**********
+2022-04-07 20:40:19,684:    INFO:    *******verifying title page pass**********
+2022-04-07 20:40:19,776:    INFO:    *******clicking on login button**********
+2022-04-07 20:40:26,934:    INFO:    *******getting title of title page**********
+2022-04-07 20:40:26,940:    INFO:    *******test_login pass**********
